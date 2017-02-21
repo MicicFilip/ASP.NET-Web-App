@@ -2,9 +2,7 @@
 
 ##Installation##
 Load database from dbDump, using mysqlworkbench and SQL Server. Set the connection string for database in web.config.
-For database: 
-1)username: root
-2)password: root
+For database: username is root, password is root
 
 Configure your server accordingly 
 
